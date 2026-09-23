@@ -1,3 +1,7 @@
+## Version 1.0.11 (September 2026)
+
+ - Changed Java imports.
+
 ## Version 1.0.10 (September 2026)
 
  - Changed constant and string import colors.

@@ -301,7 +301,8 @@
         {
             "name": "Control Keywords",
             "scope": [
-                "keyword.control"
+                "keyword.control",
+                "keyword.other.import"
             ],
             "settings": {
                 "foreground": "#ddaa00"
@@ -414,11 +415,13 @@
             }
         },
         {
-            "name": "Namespace/Imports/Includes",
+            "name": "Namespaces/Imports/Includes",
             "scope": [
                 "entity.name.namespace",
                 "string.quoted.other",
-                "meta.preprocessor.include"
+                "string.quoted.other.include",
+                "meta.preprocessor.include",
+                "storage.modifier.import"
             ],
             "settings": {
                 "foreground": "#3030ff"
