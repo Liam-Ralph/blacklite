@@ -264,8 +264,7 @@
         {
             "name": "Language Constant",
             "scope": [
-                "constant.language",
-                "entity.name.function.preprocessor"
+                "constant.language"
             ],
             "settings": {
                 "foreground": "#ff8000"
@@ -274,7 +273,8 @@
         {
             "name": "Other Constant",
             "scope": [
-                "constant.other"
+                "constant.other",
+                "entity.name.function.preprocessor"
             ],
             "settings": {
                 "foreground": "#ffffbb"
