@@ -272,6 +272,15 @@
             }
         },
         {
+            "name": "Other Constant",
+            "scope": [
+                "constant.other"
+            ],
+            "settings": {
+                "foreground": "#ffffbb"
+            }
+        },
+        {
             "name": "Number",
             "scope": [
                 "constant.numeric"
@@ -287,15 +296,6 @@
             ],
             "settings": {
                 "foreground": "#cc70bb"
-            }
-        },
-        {
-            "name": "String",
-            "scope": [
-                "string"
-            ],
-            "settings": {
-                "foreground": "#20aa20"
             }
         },
         {
@@ -339,7 +339,8 @@
             "scope": [
                 "storage.type",
                 "storage.type.primitive.java",
-                "keyword.type"
+                "keyword.type",
+                "support.type.python"
             ],
             "settings": {
                 "foreground": "#20aaff"
@@ -393,6 +394,16 @@
             }
         },
         {
+            "name": "Self References",
+            "scope": [
+                "variable.language.this",
+                "variable.language.special.self"
+            ],
+            "settings": {
+                "foreground": "#6060f0"
+            }
+        },
+        {
             "name": "Placeholders",
             "scope": [
                 "constant.other.placeholder"
@@ -405,10 +416,20 @@
             "name": "Namespace/Imports/Includes",
             "scope": [
                 "entity.name.namespace",
-                "string.quoted.other"
+                "string.quoted.other",
+                "meta.preprocessor.include"
             ],
             "settings": {
                 "foreground": "#3030ff"
+            }
+        },
+        {
+            "name": "String",
+            "scope": [
+                "string"
+            ],
+            "settings": {
+                "foreground": "#20aa20"
             }
         },
         {
