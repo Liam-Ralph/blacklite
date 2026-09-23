@@ -369,7 +369,8 @@
         {
             "name": "Argument Variables",
             "scope": [
-                "variable.parameter"
+                "variable.parameter",
+                "entity.name.variable.parameter"
             ],
             "settings": {
                 "foreground": "#a0a0ff"
