@@ -1,3 +1,7 @@
+## Version 1.0.13 (November 2026)
+
+ - Updated package.json file.
+
 ## Version 1.0.12 (November 2026)
 
  - Changed selection colors to teal.
