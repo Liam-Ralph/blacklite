@@ -4,6 +4,7 @@
  - Slightly modified peek view colors.
  - Changed find match colors.
  - Slightly modified list/dropdown colors.
+ - Started publishing to Open VSX Registry.
 
 ## Version 1.0.11 (September 2026)
 

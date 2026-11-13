@@ -32,6 +32,5 @@ Screenshots also use the icon theme from Ayu.
 
 ## Installation
 
-This extension should be installable from the Visual
-Studio Code extension store. Alternatively, `ext install LiamRalph.blacklite`
-should work.
+This extension is available on both the Visual Studio Code Marketplace and
+Open VSX Registry (v1.0.12+).
