@@ -1,3 +1,10 @@
+## Version 1.0.12 (November 2026)
+
+ - Changed selection colors to teal.
+ - Slightly modified peek view colors.
+ - Changed find match colors.
+ - Slightly modified list/dropdown colors.
+
 ## Version 1.0.11 (September 2026)
 
  - Changed Java imports.
